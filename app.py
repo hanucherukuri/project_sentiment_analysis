@@ -17,7 +17,7 @@ def main():
     st.title("Sentiment Analysis Web App")
     st.subheader("Enter the text you would like to analyse")
     message = st.text_area("Enter Text Here:")
-    if st.button("Submit 👈"):
+    if st.button("Submit"):
         with st.spinner("Analysing the text"):
             prediction=predict(message)
         if prediction > 0.6:
