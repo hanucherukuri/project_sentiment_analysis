@@ -14,5 +14,10 @@ Contents of the folder
 4. part5_tansformer_approach_BERT
 
 Software: Python3
-Libraries used for project implementation are in the Requirements.txt file.
-The code is developed in the google collab and collab pro. 
+
+Libraries used for project implementation are in the requirements.txt file.
+The code is developed in the google collab and collab pro.
+
+The app is developed in the visual studio code
+
+For exceuting the web app enter streamlit run app.py in the terminal.
