@@ -18,6 +18,6 @@ Software: Python3
 Libraries used for project implementation are in the requirements.txt file.
 The code is developed in the google collab and collab pro.
 
-The app is developed in the visual studio code
+The app is developed in the visual studio uisng streamlit.
 
-For exceuting the web app enter streamlit run app.py in the terminal.
+For executing the web app enter "streamlit run app.py" in terminal.
