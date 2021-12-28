@@ -13,6 +13,8 @@ Contents of the folder
 4. part4_deep_learning_approach_LSTM
 5. part5_tansformer_approach_BERT
 6. app.py
+
+
 Software: Python3
 
 Libraries used for project implementation are in the requirements.txt file.
