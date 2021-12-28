@@ -9,9 +9,11 @@ Contents of the folder
 
 1. part1_data analysis
 2. part2_lexicon-rule_approach_VADER
-2. part3_machine_learning_approach_SVM
-3. part4_deep_learning_approach_LSTM
-4. part5_tansformer_approach_BERT
+3. part3_machine_learning_approach_SVM
+4. part4_deep_learning_approach_LSTM
+5. part5_tansformer_approach_BERT
+6. app.py
+
 
 Software: Python3
 
